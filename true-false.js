@@ -1,11 +1,11 @@
-// const ages = 4
+const ages = 4
 
-// if(ages){
-//     console.log("condition is true");
-// }
-// else{
-//     console.log("condition is false")
-// }
+if(ages){
+    console.log("condition is true");
+}
+else{
+    console.log("condition is false")
+}
 
 
 const name = true
@@ -29,20 +29,20 @@ console.log(name2)
 let name3 = null
 console.log(name3)
 
-//truety:
-//" "
-//"0"
-//{}
-//[]
-//"false"
-//true
-//"true"
+truety:
+" "
+"0"
+{}
+[]
+"false"
+true
+"true"
 
 
-//falsy:
-//false
-//""
-//undefind
-//NaN
-//null
-//0
+falsy:
+false
+""
+undefind
+NaN
+null
+0
